@@ -1,4 +1,6 @@
-# Final project
+# Final Project
+
+Final project for Developing AI Applications with Python and Flask.
 
 Emotion Detector is a Flask web application that analyzes customer feedback
 using the embedded Watson NLP emotion service supplied by IBM Skills Network.
